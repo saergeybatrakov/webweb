@@ -1,0 +1,39 @@
+html {
+	background-color: #297;
+	padding-top: 30px;
+	padding: 40px;
+	background: linear-gradient(#FDFDF0, #293f50);
+}
+body {
+	wigth: 80%;
+	background-color: #F0FFF0;
+	border: 3px dashed #9000000;
+	padding: 15px;
+	margin: 0 auto;
+	border-radius: 10px;
+	box-shadow: 10px 10px 25px rgda(0,0,0,0.5);
+	background: url.(./images/bg_page.png) repeat-x;
+}
+p {
+	font-family: "Open Sans", sang-serif;
+	font-weight: 400;
+	font-style: normal;
+	font-size: 16pt;
+	margin-top: 20px;
+	margin-left: 60px;
+}
+h1, h2 {
+	color: #999585
+}
+h2 { 
+	border-bottom: 2px while solid;
+	background: url(./images/head-icon.png) no-repeat 10px 10px;
+	padding: 0 0 2px 60px;
+	margin: 0;
+}
+.intro{
+	color: #111111;
+	font-size: 1.4em:
+	margin-lef: 0;
+	margin-bottom: 25px;
+}
